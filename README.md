@@ -1,1 +1,13 @@
 # Push-button-counter
+COMPANY CODTECH IT SOLUTIONS
+
+NAME: NAMBURI VINAY KUMAR
+
+INTERN ID:CT04DF1878
+
+DOMAIN: Embedded Systems
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar
+
